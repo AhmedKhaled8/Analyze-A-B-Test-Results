@@ -1,4 +1,4 @@
-# Analyze-A-B-Test-Results
+# Analyze A-B Test Results
 
 **This is the second project in the 'Advanced Data Analysis' nanodegree provided by FWD-Egypt.**
 
